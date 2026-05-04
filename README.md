@@ -71,6 +71,7 @@ COMPLIAI/
 │   ├── index.html                 # Upload page UI
 │   └── report.html                # Compliance report UI
 │
+├── LICENSE
 ├── Screenshots/                   # Screenshots
 ├── Dockerfile                     # Docker build configuration
 ├── requirements.txt               # Python dependencies
